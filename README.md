@@ -1,1 +1,1 @@
-# simple-interest-calculator-apache
+The license should include the topics listed in your task, including Definitions, Grant of Copyright License, Grant of Patent License, Redistribution, Submission of Contributions, Trademarks, Disclaimer of Warranty, Limitation of Liability, and Accepting Warranty or Additional Liability.
